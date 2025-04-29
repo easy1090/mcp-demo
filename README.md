@@ -1,4 +1,4 @@
-# Rsbuild Project
+# rsdoctor mcp demo Project
 
 ## Setup
 
