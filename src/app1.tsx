@@ -1,9 +1,7 @@
-
+import React from 'react';
 import { Button } from '@arco-design/web-react';
 import '@arco-design/web-react/dist/css/arco.css';
 import styles from './index.module.less';
-import './semver';
-import './semver7';
 
 export function App({ name }: any) {
   return (
